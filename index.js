@@ -1,4 +1,5 @@
-const {AutoRia} = require('./parser');
+const {AutoRia} = require('./Sites/AutoRia');
+const colors = require('colors');
 
 /**
  * Start function
